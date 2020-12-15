@@ -10,6 +10,7 @@ namespace DigitalCurrencyConverter
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
         }
     }
 }
